@@ -2,7 +2,7 @@ HOME_TREE     := ../../
 MODULE_NAME   := $(notdir $(CURDIR))
 
 # Python + Pybind11 headers
-PYTHON_INCLUDE       := /home/bo/miniconda3/envs/vln/include/python3.8
+PYTHON_INCLUDE       := /root/miniconda3/include/python3.8
 PYBIND11_INCLUDE     := /usr/include/pybind11
 
 # Define your code’s source here
